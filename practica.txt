@@ -1,0 +1,7 @@
+Mi primera práctica con Git y GitHub. 
+
+Nombre: Alejandra Soto
+Curso: Cuarto Semestre - Ingeniería de Software
+Fecha: 20 de Mayo de 2026
+
+Estoy aprendiendo a usar control de versiones.
